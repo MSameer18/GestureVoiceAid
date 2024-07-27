@@ -3,6 +3,7 @@
 GestureVoiceAid is a real-time hand gesture and facial expression recognition system designed to aid individuals with special needs. It recognizes specific hand gestures and provides vocal feedback using text-to-speech technology.
 
 Supervisor : https://github.com/Anwar-Ali-Sathio
+Project Partner: https://github.com/shaharyar4t4
 
 ## Features
 
