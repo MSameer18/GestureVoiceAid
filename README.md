@@ -42,6 +42,7 @@ GestureVoiceAid is a real-time hand gesture and facial expression recognition sy
     ```sh
     pip install -r requirements.txt
     ```
+   Supervisor : https://github.com/Anwar-Ali-Sathio
 
 ## Usage
 
